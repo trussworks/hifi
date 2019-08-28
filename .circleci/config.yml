@@ -9,5 +9,5 @@ jobs:
     steps:
       - checkout
       - run:
-          command: ls -lah
-          shell: bash.exe
+              command: ls -lah
+              shell: bash.exe
